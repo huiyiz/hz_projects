@@ -10,6 +10,10 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Collections;
 
+/**
+ * @author Huiyi Zhang, Yanqian Wu
+ */
+
 
 public class Container implements Serializable {
     /* The commit object which the current branch points to. */

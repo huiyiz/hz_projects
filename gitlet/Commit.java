@@ -5,6 +5,10 @@ import java.util.ArrayList;
 import java.util.Map;
 import java.io.Serializable;
 
+/**
+ * @author Huiyi Zhang, Yanqian Wu
+ */
+
 public class Commit implements Serializable {
     /* The commit message (metadata). */
     public String message;

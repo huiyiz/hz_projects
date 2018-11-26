@@ -15,6 +15,10 @@ import java.util.stream.Collectors;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
+/**
+ * @author Huiyi Zhang, Yanqian Wu
+ */
+
 public class Command {
     /* An array of string that contains parameters from terminal input. */
     public String[] argu;

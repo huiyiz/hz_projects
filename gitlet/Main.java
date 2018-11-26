@@ -6,9 +6,10 @@ import java.io.FileInputStream;
 import java.io.ObjectOutputStream;
 import java.io.ObjectInputStream;
 
-/* Driver class for Gitlet, the tiny stupid version-control system.
-   @author
-*/
+/**
+ * Driver class for Gitlet, the tiny stupid version-control system.
+ * @author Huiyi Zhang, Yanqian Wu
+ */
 public class Main {
 
     /* Usage: java gitlet.Main ARGS, where ARGS contains
