@@ -10,6 +10,7 @@ import java.util.ArrayList;
 /**
  * This class provides a <code>shortestPath</code> method and <code>routeDirections</code> for
  * finding routes between two points on the map.
+ * @author: Huiyi Zhang, Yanqian Wu
  */
 public class Router {
     /**

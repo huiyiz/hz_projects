@@ -1,5 +1,9 @@
 import java.util.List;
 
+/**
+ * This class provides a k-dimensional tree that improves the efficiency of finding nearest adjacent nodes.
+ * @author: Huiyi Zhang, Yanqian Wu
+ */
 
 public class KDTree {
 

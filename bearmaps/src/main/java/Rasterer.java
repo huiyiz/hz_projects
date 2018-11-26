@@ -4,6 +4,7 @@
  * a query result. The getMapRaster method must return a Map containing all
  * seven of the required fields, otherwise the front end code will probably
  * not draw the output correctly.
+ * @author: Huiyi Zhang, Yanqian Wu
  */
 public class Rasterer {
     /** The max image depth level. */

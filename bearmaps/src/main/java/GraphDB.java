@@ -21,6 +21,7 @@ import java.util.stream.Collectors;
  * modifying the graph (e.g. addVertex and addEdge).
  *
  * @author Kevin Lowe, Antares Chen, Kevin Lin
+ * @author Huiyi Zhang, Yanqian Wu
  */
 public class GraphDB {
 
